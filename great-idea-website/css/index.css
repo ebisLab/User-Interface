@@ -140,3 +140,10 @@ button{
 	margin-right: 40px;
 	
 }
+
+.two-column{
+	width: 34%;
+	display: inline-block;
+	text-align: left;
+	padding: 35px;
+}
