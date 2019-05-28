@@ -96,21 +96,6 @@ h1{
 	
 }
 
-aside{
-	width: 40%;
-    padding-left: .5rem;
-    margin-left: .5rem;
-    box-shadow: inset 5px 0 5px -5px #29627e;
-    font-style: italic;
-    color: #29627e;
-}
-
-/*section{
-background: pink;
-padding: 10% 0% 0% 20% ;
-
-}*/
-
 .left{
 width: 25%;
 display: inline-block;
@@ -126,7 +111,6 @@ position: relative;
 }
 
 .main-heading{
-	
 	text-align: center;
 	padding: 5% 0 5% 10% ;
 }
@@ -142,28 +126,33 @@ button{
 
 
 .content{
-	background: greenyellow;
-	
+	border: 2px solid;
+	border-left: 0;
+	border-right: 0;
+	width: 62%;
+text-align: center;
+margin: 0 0 0 20% ;
 }
 .one-column{
-	width: 68%;
+	width: 65%;
 	display: inline-block;
 	text-align: left;
 	padding: 35px;
 }
 
 .two-column{
-	width: 32.7%;
+	width: 49%;
 	display: inline-block;
 	text-align: left;
-	padding: 35px;
+	padding: 35px 0 35px 0;
+	
 }
 
 .three-column{
-	width: 22%;
+	width: 33.07%;
 	display: inline-block;
 	text-align: left;
-	padding: 35px;
+	padding: 35px 6px 35px 6px;
 }
 
 footer{
@@ -172,5 +161,5 @@ footer{
 
 .copyright {
 text-align: center;
-padding: 25px;
+padding: 35px;
 }
