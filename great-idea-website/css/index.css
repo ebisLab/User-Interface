@@ -138,12 +138,39 @@ button{
 	border: 2px solid;
 	font-size: 17px;
 	margin-right: 40px;
-	
 }
 
-.two-column{
-	width: 34%;
+
+.content{
+	background: greenyellow;
+	
+}
+.one-column{
+	width: 68%;
 	display: inline-block;
 	text-align: left;
 	padding: 35px;
+}
+
+.two-column{
+	width: 32.7%;
+	display: inline-block;
+	text-align: left;
+	padding: 35px;
+}
+
+.three-column{
+	width: 22%;
+	display: inline-block;
+	text-align: left;
+	padding: 35px;
+}
+
+footer{
+	text-align: center;
+}
+
+.copyright {
+text-align: center;
+padding: 25px;
 }
