@@ -149,10 +149,10 @@ margin: 0 0 0 20% ;
 }
 
 .three-column{
-	width: 33.07%;
+	width: 33.00%;
 	display: inline-block;
 	text-align: left;
-	padding: 35px 6px 35px 6px;
+	padding: 35px 0px 35px 5px;
 }
 
 footer{
